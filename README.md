@@ -1,1 +1,1 @@
-## Exericsm exercises
+## Exerism | Javascript track
